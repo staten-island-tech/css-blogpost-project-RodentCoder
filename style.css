@@ -12,3 +12,8 @@ body {
 
 .smaller-header {
   font-size: 25px;
+}
+
+#header {
+  color: aquamarine;
+}
