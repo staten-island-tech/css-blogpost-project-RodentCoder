@@ -2,18 +2,25 @@ body {
   background-color: lightcoral;
   color: lightblue;
   font-size: 50px;
+  text-align: center;
 }
 
 .header {
   color: lightblue;
-  text-align: center;
   margin-top: 100px;
 }
 
 .smaller-header {
-  font-size: 25px;
+  font-size: 50px;
 }
 
 #header {
   color: aquamarine;
+}
+
+.card {
+  background-color: pink;
+  border: 8px solid black;
+  border-radius: 50px;
+  color: black;
 }
