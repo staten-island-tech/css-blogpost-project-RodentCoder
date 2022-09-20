@@ -23,4 +23,12 @@ body {
   border: 8px solid black;
   border-radius: 50px;
   color: black;
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-bottom: 50px;
+}
+
+*body,
+html {
+  box-sizing: border-box;
 }
